@@ -1,2 +1,2 @@
 # KidSafe_AndroidApp
-KidDSafe Android App repository
+KidSafe Android App repository
